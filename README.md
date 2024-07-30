@@ -45,7 +45,9 @@ Follow the steps below to set up the project on your local machine:
    ```bash
    python main.py --name "patient name" --age age --weight weight --inhalation_injury 0 --hand_image /path/to/hand.jpg --burn_images /path/to/burn1.jpg /path/to/burn2.jpg ...
    ```
-   Note that you must replace `"patient name"`,`age`,and`weight` with a real name, age, and weight. The `--inhalation_injury` it's default value is 0 but if the patient has an inhalation injury then the value will be      1.
+   Note that you must replace `"patient name"`,`age`,and`weight` with a real name, age, and weight.
+
+   The `--inhalation_injury` it's default value is 0 but if the patient has an inhalation injury then the value will be      1.
    
    And Replace `/path/to/hand.jpg` with the path to the hand image, The last one is `/path/to/burn1.jpg /path/to/burn2.jpg ...` Replace it with the burn's paths separated by spaces.
 
