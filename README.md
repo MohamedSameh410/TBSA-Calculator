@@ -8,7 +8,6 @@ By automating the TBSA estimation process, this project aims to:
 * Increase efficiency: Streamline the burn assessment process for medical professionals.
 * Support clinical decision-making: Provide quantitative data for triage, acute management, and patient transfer.
 
-The study "Deep Learning–Assisted Burn Wound Diagnosis: Diagnostic Model Development Study" informed the model development.
 
 ## Applications
 * Burns classification & segmentation.
