@@ -32,7 +32,7 @@ Follow the steps below to set up the project on your local machine:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/MohamedSameh410/TBSA-Calculator/TBSA-Calculator.git
+   git clone https://github.com/MohamedSameh410/TBSA-Calculator.git
    cd TBSA-Calculator
    ```
 2. Install dependencies:
